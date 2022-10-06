@@ -12,7 +12,7 @@ I'm a developer, and I now reside in Auckland. Since I was little, I've always t
 - 🤔 I’m looking for help with Archiso and VIM.
 - 💬 Ask me about Fusion 360, and HTML/Python :)
 - 📫 How to reach me:
-      - [discord](Hans_Schneider#2885)  
-      - [gmail](ken20080601@gmal.com)
+      - Discord: Hans_Schneider#2885
+      - Gmail: Ken20080601@gmail.com
 - 😄 Pronouns: he/him.
 - ⚡ Fun fact: bird eats bees.
