@@ -16,3 +16,5 @@ I'm a developer, and I now reside in Auckland. Since I was little, I've always t
       - Gmail: Ken20080601@gmail.com
 - 😄 Pronouns: he/him.
 - ⚡ Fun fact: bird eats bees.
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
