@@ -1,8 +1,8 @@
 ![header](https://user-images.githubusercontent.com/52772036/194210006-a6f54e07-df49-4223-9013-2282346124cd.png)
 
 
+
 ### Hi there, I'm Ken 👋
-_____________________________
 
 I'm a developer, and I now reside in Auckland. Since I was little, I've always thought that p eople should be more creative than spend time using social media, I discovered my passion in design when I was young. I also discovered that designing gadgets is another method for me to express my thoughts to the world; in addition, I'm now sharpening my coding abilities. These are some of the skills I've acquired or topics of interest I've discovered during the past ten years. I became interested in filmmaking and landscape photography. I also love spending my weekends on train trips or going climbing in the mountains as a way to decompress after a stressful work week. And I find a special connection between me and retro technologies.
 
