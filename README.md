@@ -2,7 +2,7 @@
 
 # Brief introduction:
 
-I'm a developer, and I now reside in Auckland. Since I was little, I've always thought that people should be more creative than spending time using social media. I discovered my passion in design when I was young. I also discovered that designing gadgets is another method for me to express my thoughts to the world; in addition, I'm now sharpening my coding abilities. I also find a special connection between me and retro technologies. These are some of the skills I've acquired on topics of interest that I've discovered during the past ten years. I also became interested in film-making and landscape photography. I also love spending my weekends on train trips or going climbing in the mountains as a way to decompress after a stressful work week. 
+Hello there, folks! I'm Ken, the keyboard maestro from TPE Auckland, with a passion for programming and a penchant for puns. I'm fluent in "Elglish" - the unique blend of English and coding jargon that keeps me in stitches and debugging at the same time. When I'm not busy debugging my code, you'll likely find me on a hike, touching grass, or cracking a joke that only fellow programmers would understand. So, let's code and conquer the world one line at a time! Cheers, mate!
 
 :D
 
