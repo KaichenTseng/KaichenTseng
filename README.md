@@ -2,7 +2,7 @@
 
 # Brief introduction:
 
-Hello there, folks! I'm Ken, the keyboard maestro from TPE Auckland, with a passion for programming and a penchant for puns. I'm fluent in "Elglish" - the unique blend of English and coding jargon that keeps me in stitches and debugging at the same time. When I'm not busy debugging my code, you'll likely find me on a hike, touching grass, or cracking a joke that only fellow programmers would understand. So, let's code and conquer the world one line at a time! Cheers, mate!
+G'day, mates! I'm Ken, the coding whiz hailing from TPE- Auckland, where I spin web magic with my keyboard. Fluent in "Elglish," the art of coding lingo and nerd jokes, I'm all about turning bugs into features and debugging with a smile. When I'm not tapping away on my keyboard, you'll likely find me tinkering with gadgets or cracking puns that'll make you groan and grin at the same time. So, let's code and conquer the digital realm together! Cheers, cobbers!
 
 :D
 
